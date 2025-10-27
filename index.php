@@ -17,6 +17,7 @@
     />
     <link rel="stylesheet" href="style.css" />
     <title>Eamon Napier's Portfolio</title>
+    <!-- test: verifying git push -->
   </head>
   <body>
     <header class="header">
